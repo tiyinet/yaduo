@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>4.0</MASTER_PAD_VERSION>
+  </MASTER_PAD_VERSION_INFO>
+  <COMPANY_INFO>
+    <COMPANY_NAME>Yaduo Software</COMPANY_NAME>
+    <COMPANY_ADDRESS>No.1 Software Avenue</COMPANY_ADDRESS>
+    <COMPANY_CITY>Chengdu</COMPANY_CITY>
+    <COMPANY_STATE>Sichuan</COMPANY_STATE>
+    <COMPANY_ZIP>610000</COMPANY_ZIP>
+    <COMPANY_COUNTRY>China</COMPANY_COUNTRY>
+    <COMPANY_CONTACT_NAME>tiyinet</COMPANY_CONTACT_NAME>
+    <COMPANY_EMAIL>6633244@qq.com</COMPANY_EMAIL>
+    <COMPANY_WEB_SITE_URL>https://www.yaduoo.cn/</COMPANY_WEB_SITE_URL>
+    <COMPANY_FAX></COMPANY_FAX>
+    <COMPANY_PHONE>19938174091</COMPANY_PHONE>
+  </COMPANY_INFO>
+  <PROGRAM_INFO>
+    <PROGRAM_NAME>Yaduo Hotel PMS</PROGRAM_NAME>
+    <PROGRAM_VERSION>1.0.0</PROGRAM_VERSION>
+    <PROGRAM_RELEASE_DATE>2026-10-09</PROGRAM_RELEASE_DATE>
+    <PROGRAM_RELEASE_STATUS>New Release</PROGRAM_RELEASE_STATUS>
+    <PROGRAM_TYPE>Freeware</PROGRAM_TYPE>
+    <PROGRAM_COST_USD>0</PROGRAM_COST_USD>
+    <PROGRAM_DESCRIPTIVE_URL>https://www.yaduoo.cn/</PROGRAM_DESCRIPTIVE_URL>
+    <PROGRAM_INFO_URL>https://github.com/tiyinet/yaduo</PROGRAM_INFO_URL>
+    <PROGRAM_CHANGE_INFO_URL></PROGRAM_CHANGE_INFO_URL>
+    <PROGRAM_CATEGORY>Business &amp; Productivity</PROGRAM_CATEGORY>
+    <PROGRAM_FILE_SIZE>78 MB</PROGRAM_FILE_SIZE>
+    <PROGRAM_FILE_SIZE_K>78000</PROGRAM_FILE_SIZE_K>
+    <PROGRAM_EXE_FILE>YaduoJiudian-Setup-1.0.exe</PROGRAM_EXE_FILE>
+    <PROGRAM_SKU></PROGRAM_SKU>
+    <PROGRAM_LANGUAGE>Chinese Simplified, English</PROGRAM_LANGUAGE>
+    <PROGRAM_OS_SUPPORT>Win10, Win11</PROGRAM_OS_SUPPORT>
+    <PROGRAM_OS_WIN10>Y</PROGRAM_OS_WIN10>
+    <PROGRAM_OS_WIN11>Y</PROGRAM_OS_WIN11>
+    <PROGRAM_REQUIREMENTS>Windows 10/11 64-bit, 4GB RAM, internet required</PROGRAM_REQUIREMENTS>
+    <PROGRAM_HOMEPAGE_URL>https://www.yaduoo.cn/</PROGRAM_HOMEPAGE_URL>
+    <PROGRAM_URL>https://github.com/tiyinet/yaduo/releases/latest/download/YaduoJiudian-Setup.zip</PROGRAM_URL>
+    <PROGRAM_ICON_URL></PROGRAM_ICON_URL>
+  </PROGRAM_INFO>
+  <DESCRIPTIVE_INFO>
+    <KEYWORDS>hotel management system, hotel PMS, B&amp;B management, hostel management, hotel front desk software, hotel software, apartment management, hotel alliance</KEYWORDS>
+    <SHORT_DESCRIPTION>Yaduo Hotel PMS is an all-in-one hotel management platform for small and medium hotels, B&amp;Bs and apartments. Visual room status board, unified multi-channel orders auto-sync, member profiles, finance, night audit, analytics, housekeeping and unique hotel alliance - one system covers it all. Desktop client syncs with WeChat mini-program and H5. Free trial forever.</SHORT_DESCRIPTION>
+    <LONG_DESCRIPTION>Yaduo Hotel PMS is an all-in-one digital operation platform specially built for small and medium hotels, B&amp;Bs and apartments. More than a traditional PMS: besides room status and order management, it integrates customer membership, finance reconciliation, marketing, data analytics, housekeeping and a unique hotel alliance into one system. Visual room status board supports day and month views; check-in/check-out in just a few steps. Multi-channel orders are unified and auto-synced to reduce oversell and missed orders. Member profiles, points, stored-value cards and vouchers boost repurchase; departure care auto-generates follow-up tasks with one-tap review invitation and repurchase invitation. Finance covers revenue, bills, reconciliation, deposits and on-account; night audit runs automatically. Analytics covers operations, occupancy, guest sources, room types, cost and profit. Housekeeping manages cleaning, maintenance, scheduling, attendance, purchasing, inventory and linen. The unique hotel alliance supports last-room rush-order grabbing and part-time worker grabbing. Desktop client, WeChat mini-program and H5 share one account and one set of data. Free trial forever.</LONG_DESCRIPTION>
+    <SLOGAN>One system for your whole hotel</SLOGAN>
+  </DESCRIPTIVE_INFO>
+</XML_DIZ_INFO>
