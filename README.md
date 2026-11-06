@@ -8,7 +8,7 @@
 
 Yaduo is an all-in-one hotel management system (PMS) for hotels, guesthouses and multi-property operators — front desk, rooms, booking, membership, finance and multi-store management, with OTA channel integration.
 
-官网：http://www.yaduoo.cn
+官网：https://www.yaduoo.cn
 
 ---
 
