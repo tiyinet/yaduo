@@ -1,3 +1,19 @@
+# 芽朵 · 酒店管理系统（Hotel Management System · PMS）
+
+**前台接待 ｜ 客房管理 ｜ 在线预订 ｜ 会员营销 ｜ 财务报表 ｜ 多分店管理**
+
+**Hotel PMS · Property Management · Booking System for Hotels & Homestays**
+
+关键词：酒店管理系统、酒店PMS、民宿管理系统、客房管理软件、酒店预订系统、前台收银系统、OTA对接、酒店软件、住宿业管理。
+
+Yaduo is an all-in-one hotel management system (PMS) for hotels, guesthouses and multi-property operators — front desk, rooms, booking, membership, finance and multi-store management, with OTA channel integration.
+
+官网：http://www.yaduoo.cn
+
+---
+
+（以下为说明全文）
+
 # 芽朵酒店管理系统
 
 面向酒店、民宿与多业态住宿的一体化经营管理平台 —— 一套系统、三大板块、四端全覆盖。
